@@ -186,3 +186,4 @@ cd frontend
 npm i
 npm start
 ```
+![](./image.png)
